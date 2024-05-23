@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-04-05 11:07:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am happy to share that I accepted an Assistant Professor position at <a href="https://www.up.edu.pe/">Universidad del Pacífico</a> (Lima, Perú).
