@@ -4,9 +4,8 @@ title: About
 permalink: /
 subtitle: >
     <p>
-        <tt>Ph.D. candidate</tt>
-        <br><tt>Department of Economics</tt>
-        <br><tt><a href="https://economics.indiana.edu/">Indiana University</a></tt>
+        <tt>Department of Economics</tt>
+        <br><tt><a href="https://www.up.edu.pe/">Universidad del Pacífico</a></tt>
     </p>
 
 profile:
@@ -14,9 +13,9 @@ profile:
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Wylie Hall (WY) 307</p>
-    <p>100 South Woodlawn Av.</p>
-    <p>Bloomington, IN 47405</p>
+    <p>Pabellón I (CIUP) 322</p>
+    <p>Jr. Sánchez Cerro 2050</p>
+    <p>Jesús María, Lima 15072</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -25,10 +24,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<br>
-<br>
+Welcome to my webpage! 
+
 <p align="justify">
-I am a Ph.D. candidate in Economics at Indiana University, Bloomington. I will join the Department of Economics at Universidad del Pacífico as an Assistant Professor in August 2024. 
+I am an Assistant Professor of Economics at Universidad del Pacífico (Lima, Perú). My research interests focus on macroeconomics with emphasis on household finance, financial markets and quantitative methods. Throughout my work, I study the interaction of micro-level heterogeneity, idiosyncratic and aggregate shocks and economic policy.
 </p>
 
 
@@ -37,4 +36,4 @@ I am a Ph.D. candidate in Economics at Indiana University, Bloomington. I will j
 <br>
 <i class="fas fa-download"></i>&#8195;<tt>[View & Download CV](/cv/)</tt>
 
-<p><i class="fas fa-envelope"></i>&#8195;<a href="mailto:salinasc@iu.edu">salinasc@iu.edu</a></p>
+<p><i class="fas fa-envelope"></i>&#8195;<a href="mailto:salinas_cs@up.edu.pe">salinas_cs@up.edu.pe</a></p>
