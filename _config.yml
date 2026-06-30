@@ -63,7 +63,7 @@ al_folio:
       enabled: true
   compat:
     bootstrap:
-      enabled: true # temporary: keep Bootstrap classes working during cutover; convert to Tailwind and disable before v1.3
+      enabled: false # gem core already ships the compat utilities our templates use; enabling this injects a `.collapse{visibility:hidden}` rule that hides the navbar menu
       support_window: v1.0-v1.2
       deprecates_in: v1.3
       removed_in: v2.0
