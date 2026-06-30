@@ -6,4 +6,4 @@ scholar_userid: 3vKt1WoAAAAJ # your Google Scholar ID
 github_username: salinasdcs # your GitHub username
 x_username: CesarSalinas91 # your X (Twitter) handle
 linkedin_username: c%C3%A9sar-salinas-6b4531b2/ # your LinkedIn username
-rss_icon: false # set to true to show the RSS icon
+# rss_icon omitted on purpose — its mere presence renders the RSS icon, so leave it out to hide it
