@@ -1,0 +1,9 @@
+# Social media links and usernames, displayed via the jekyll-socials plugin.
+# Order here is the display order. See https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/cv_Cesar_Salinas.pdf # path to your CV PDF file
+email: salinas_cs@up.edu.pe # your email address
+scholar_userid: 3vKt1WoAAAAJ # your Google Scholar ID
+github_username: salinasdcs # your GitHub username
+x_username: CesarSalinas91 # your X (Twitter) handle
+linkedin_username: c%C3%A9sar-salinas-6b4531b2/ # your LinkedIn username
+rss_icon: false # set to true to show the RSS icon

@@ -1,16 +1,17 @@
 ---
-layout: page
+layout: course
 title: Computational Economics
-description: Summer 2023
-img: assets/img/python1.jpeg
-importance: 2
-category: Graduate Level
+description: The objective of this course is to provide and equip students with the computational tools necessary to solve dynamic and stochastic models, with particular attention to classic macroeconomic problems.
+instructor: César Salinas
+term: Summer 2023
+year: 2023
+course_id: compecon
 ---
 
 The objective of this course is to provide and equip students with the computational tools necessary to solve dynamic and stochastic models. We will pay particular attention to classic macroeconomic problems, although the tools presented in this course can be used in similar problems studied in various fields of economics.
 
 <h4>Syllabus</h4>
-<i class="fas fa-download"></i>&#8195;You can find the syllabus [here](/assets/pdf/Syllabus_2023.pdf).
+<i class="fa-solid fa-download"></i>&#8195;You can find the syllabus [here](/assets/pdf/Syllabus_2023.pdf).
 
 <h4>Course Learning Objectives</h4>
 Upon successful completion, students will be able to:
