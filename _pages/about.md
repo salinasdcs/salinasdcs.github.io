@@ -17,8 +17,12 @@ profile:
     <p>Jr. Sánchez Cerro 2050</p>
     <p>Jesús María, Lima 15072</p>
 
-news: true # includes a list of news items
-latest_posts: false # includes a list of the newest posts
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+latest_posts:
+  enabled: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
