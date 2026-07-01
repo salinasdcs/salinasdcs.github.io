@@ -3,9 +3,26 @@ layout: default
 ---
 {% comment %}
   Local override of al_folio_core's about layout.
-  Only change from upstream: the last name is wrapped in font-weight-bold so the
-  full name renders bold in the page title (preserved from the pre-v1 site).
+  Changes from upstream:
+   1. last name wrapped in font-weight-bold so the full name renders bold.
+   2. inline style below renders the custom Substack social icon as a monochrome
+      glyph (CSS mask tinted with the theme text color) so it matches the other
+      font-based social icons and adapts to light/dark + hover.
 {% endcomment %}
+<style>
+  .social .contact-icons a i.substack-icon::before {
+    content: "";
+    display: inline-block;
+    width: 3.2rem;
+    height: 3.2rem;
+    vertical-align: middle;
+    position: relative;
+    top: -2px; /* nudge onto the exact vertical center of the font-based icons */
+    background-color: currentColor;
+    -webkit-mask: url("{{ '/assets/img/substack.svg' | relative_url }}") no-repeat center / contain;
+    mask: url("{{ '/assets/img/substack.svg' | relative_url }}") no-repeat center / contain;
+  }
+</style>
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">

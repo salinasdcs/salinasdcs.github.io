@@ -4,8 +4,8 @@ cv_pdf: /assets/pdf/cv_Cesar_Salinas.pdf # path to your CV PDF file
 email: salinas_cs@up.edu.pe # your email address
 scholar_userid: 3vKt1WoAAAAJ # your Google Scholar ID
 x_username: CesarSalinas91 # your X (Twitter) handle
-substack: # custom social (jekyll-socials has no built-in substack); brand-orange SVG in assets/img
-  logo: /assets/img/substack.svg
+substack: # custom social (jekyll-socials has no built-in substack); rendered as <i class="substack-icon">, colored via CSS mask in the about layout so it matches the other monochrome icons
+  logo: substack-icon
   title: Substack
   url: https://substack.com/@cesarsalinas91
 linkedin_username: c%C3%A9sar-salinas-6b4531b2/ # your LinkedIn username
