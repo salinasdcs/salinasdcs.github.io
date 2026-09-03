@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Updated working paper: ["The Impact of the Uncertainty in Bank Lending Standards"](workingpapers).
+Updated working paper: ["The Impact of the Uncertainty in Bank Lending Standards"](/workingpapers/).

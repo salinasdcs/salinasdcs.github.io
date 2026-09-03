@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper ["Credit Limits and Consumption Behavior over the Life Cycle"](workingpapers) has been accepted for presentation at the <a href="https://lacealames2024.org/">LACEA LAMES Annual Meeting 2024</a> in Montevideo, Uruguay.
+My paper ["Credit Limits and Consumption Behavior over the Life Cycle"](/workingpapers/) has been accepted for presentation at the <a href="https://lacealames2024.org/">LACEA LAMES Annual Meeting 2024</a> in Montevideo, Uruguay.
