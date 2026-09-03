@@ -1,10 +1,17 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Scheduled runs are disabled: this workflow has never succeeded.
+  # bin/update_scholar_citations.py reads `existing_data` before assigning it
+  # when _data/citations.yml is absent, so it exits without creating the file,
+  # and the "Commit and push if changed" step then fails on `git add`.
+  # Nothing on the site depends on it today -- no bib entry sets
+  # `google_scholar_id`, which is what the theme needs to render counts.
+  # Re-enable by uncommenting below (and fixing the script first).
+  # schedule:
+  #   - cron: "0 0 * * 1" # Monday
+  #   - cron: "0 0 * * 3" # Wednesday
+  #   - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
 jobs:
