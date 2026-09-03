@@ -3,10 +3,10 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-    <p>
-        <tt>Department of Economics</tt>
-        <br><tt><a href="https://www.up.edu.pe/">Universidad del Pacífico</a></tt>
-    </p>
+  <p>
+      <tt>Department of Economics</tt>
+      <br><tt><a href="https://www.up.edu.pe/">Universidad del Pacífico</a></tt>
+  </p>
 
 profile:
   align: right
@@ -27,13 +27,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
-Welcome to my webpage! 
+Welcome to my webpage!
 
 <p align="justify">
 I am an Assistant Professor of Economics at Universidad del Pacífico (Lima, Perú). My research interests focus on macroeconomics with emphasis on household finance, financial markets and quantitative methods. Throughout my work, I study the interaction of micro-level heterogeneity, idiosyncratic and aggregate shocks and economic policy.
 </p>
-
 
 <strong>Research Interests:</strong> Macroeconomics, Econometrics, Household Finance, Economic Development.
 
